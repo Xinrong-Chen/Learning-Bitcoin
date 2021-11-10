@@ -7,4 +7,14 @@ The first thing I wanted to do is to understand bitcoin. Fortunately, I found th
 > Transaction fee is used to accelerate the transactions.
 
 * Mystery: Bitcoin image a market without centralized market and fee, but it is still how we handle it in real life.
+* I read something from 2017, when Bitcoin hit $4,000, the poster held a rather negative attitude about the future of cryptocurrency, at least for Bitcoin.
+* It is to me that most advantages described in the whitepaper are gone: de-centralized, anonymous, low/no transaction fee, ... . And people using hardware to do the mining are for pure profit, but what should be the profit? transaction fee? Bitcoin itself?
+* But still, lots of capital flow into the market, and it is not clear to me that do they actually believe this, or they just wanna dance until the bubble explodes.
+* In light of all these, my current opinion is that in the long term, Bitcoin either becomes more and more 'normal' as a currency/investment tool(but it could happen in a very long time), or it becomes a game between institute investors and miners, attract risk-taking customers. Together with the continuous of "innovational" product in decentralized network.
+
+> I do have another interest in Ethereum, though currently the price correlation is extremely high.
+
+
+
+
 
