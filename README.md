@@ -1,7 +1,7 @@
 # Leanring-Bitcoin
 Write down my notes of learning crypto
 
-The first thing I wanted to do is to understand bitcoin. Fortunately, I found this first-hand source - [Bitcoin Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+The first thing I wanted to do is to understand bitcoin. Fortunately I found this - [Bitcoin Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
 
 > Asymmetric encryption and Hash function - Encrypt input with any length, sign and verify the transaction.
 > Transaction fee is used to accelerate the transactions.
@@ -12,8 +12,11 @@ The first thing I wanted to do is to understand bitcoin. Fortunately, I found th
 * But still, lots of capital flow into the market, and it is not clear to me that do they actually believe this, or they just wanna dance until the bubble explodes.
 * In light of all these, my current opinion is that in the long term, Bitcoin either becomes more and more 'normal' as a currency/investment tool(but it could happen in a very long time), or it becomes a game between institute investors and miners, attract risk-taking customers. Together with the continuous of "innovational" product in decentralized network.
 
-> I do have a particular interest in Ethereum, though currently the price correlation is extremely high.
+> I do have a particular interest in Ethereum, though currently the price correlation with BIT is extremely high.
 > And idea of my little app: get connect to the main chain, read the transactions, get it streaming, with more details. Some researches need to be done on current platforms.
+---
+Recent update:
+I connect to yfinance database to get the volume and price of ETH. My plan is to apply some technical analysis methods and build my own strategies based on back testing.
 
 
 
